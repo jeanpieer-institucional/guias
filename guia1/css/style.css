@@ -1,0 +1,27 @@
+body{
+    background-color: #1b4b3f;
+}
+
+.container{
+    background-color: #356e79;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: column;
+    width: 35%;
+    height: 48%;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    border-radius: 3px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+/* .container{
+    background-color: #356e79;
+    width: 40%;
+    height: 40vh;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+} */
